@@ -1,2 +1,1 @@
-# cyclistic-bike-share-analysis
-Google Data Analytics Capstone: Analysis of Cyclistic bike-share usage patterns.
+This project analyzes 12 months of Cyclistic bike-share trip data, from October 2025 through September 2026, to explore differences in usage between casual riders and annual members. Using Microsoft Excel, Power Query, and PivotTables, I combined and prepared the data, calculated ride durations, and compared average ride duration across days of the week. The analysis found that casual riders took longer average rides than annual members on every day of the week, with the longest average rides occurring on weekends. These findings informed recommendations for further analysis and testing of targeted membership-conversion strategies.
